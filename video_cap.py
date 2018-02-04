@@ -43,4 +43,4 @@ if __name__ == "__main__":
             print("failed to capture: " + str(datetime.now()))
             
 
-        time.sleep(60)
+        time.sleep(60*15)
